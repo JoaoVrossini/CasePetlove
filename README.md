@@ -1,4 +1,5 @@
 1. Indicadores de Churn (Análise Estatística)
+
 A análise técnica estabelece os seguintes coeficientes de correlação em relação à retenção de clientes:
 Custo Total Mensal (r = -0,45):
  Identificado como o principal fator associado ao cancelamento. A correlação negativa moderada indica que o aumento do valor nominal pago pelo cliente reduz diretamente o seu tempo de permanência.
@@ -18,6 +19,7 @@ Engajamento com Serviços (r = -0,13):
 
 
 2. Estrutura de Retenção por Categoria
+
 A hierarquia de retenção da base segue a seguinte ordem:
 Básico (Maior estabilidade)
 
@@ -30,6 +32,7 @@ Premium (Menor estabilidade)
 
 
 3. Recomendações Baseadas nos Dados
+
 Ajuste por Volume:
  Implementar descontos progressivos para clientes com múltiplos pets para mitigar o impacto da correlação de -0,32.
 
